@@ -1,0 +1,13 @@
+.test_image_and_result
+{
+    border: 5px solid rgb(241, 114, 114);
+    border-radius: 20px;
+    top: 250px;
+    background-color: lightgray;
+    margin-right: 20px;
+}
+
+body
+{
+    background-color: lightblue;
+}
